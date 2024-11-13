@@ -1,6 +1,7 @@
 # Proyecto de Ejercicios con Raspberry Pi 3 y Proteus
 
 Este repositorio contiene una serie de ejercicios realizados utilizando una **Raspberry Pi 3** y el software **Proteus** para simular circuitos electrónicos. Los ejercicios incluyen el uso de diversos componentes electrónicos como **pantallas LCD**, **LEDs**, **pulsadores**, y **conversores analógicos a digitales (ADC)** para medir voltajes.
+Ademas se incluye un archivo en el cual se tienen los ejercicios mas basicos de logica en python
 
 ## Ejercicios Realizados
 
